@@ -2,7 +2,9 @@
 
 This project collects and processes data related to Tesla stock prices and vehicle information for EV sales prediction analysis.
 
-## Data Visualization Results
+## Results
+[Click here to view the Final Project Report (Google Slides)](https://docs.google.com/presentation/d/1lGaHgpP3FbwZHdyZJ207GX1rNtI-e0vKOdg9Ds_K_uo/edit?usp=sharing)
+
 ![Final Analysis Graph](data/processed/FinalGraph.png)
 *Figure 1: Final analysis of EV sales trends and predictions*
 
